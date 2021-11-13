@@ -1,0 +1,18 @@
+Tu sistema operativo es: Linux
+Node with IP: 192.168.100.1 is up.
+Node with IP: 192.168.100.3 is up.
+Node with IP: 192.168.100.2 is up.
+Node with IP: 192.168.100.5 is up.
+Node with IP: 192.168.100.7 is up.
+Node with IP: 192.168.100.8 is up.
+Node with IP: 192.168.100.9 is up.
+Node with IP: 192.168.100.11 is up.
+Node with IP: 192.168.100.16 is up.
+Node with IP: 192.168.100.17 is up.
+Puerto 22 abierto en 192.168.100.17
+Node with IP: 192.168.100.6 is up.
+Puerto 80 abierto en 192.168.100.2
+Puerto 80 abierto en 192.168.100.3
+Puerto 23 abierto en 192.168.100.1
+Puerto 53 abierto en 192.168.100.1
+Puerto 80 abierto en 192.168.100.1
